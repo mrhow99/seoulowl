@@ -1,0 +1,180 @@
+/* Default Styles */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Header Styles */
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 0.8rem 1rem 0.8rem 2.5rem;
+  border-bottom: 0.2rem solid #222;
+  background: #000;
+}
+
+a {
+  margin-top: 0.1rem;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 1.5rem;
+  margin: auto;
+  margin-top: 0.3rem;
+}
+
+.list-icon {
+  margin-right: 0.2rem;
+  width: 2rem;
+  height: 2rem;
+}
+
+/* Main Styles */
+
+.map-container,
+.map {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
+
+.currentpos,
+.zoomcontrol {
+  position: absolute;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.currentpos span,
+.zoomcontrol span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  width: 2.4rem;
+  height: 2.4rem;
+  transition: all 0.2s ease-out;
+}
+
+.zoomcontrol span:first-child {
+  border-bottom: 1px solid #ddd;
+}
+
+.currentpos span:hover,
+.zoomcontrol span:hover {
+  cursor: pointer;
+  background: #f4f4f4;
+}
+
+.loc-icon {
+  width: 1rem;
+  height: 1rem;
+}
+
+.plus-icon,
+.minus-icon {
+  width: 0.8rem;
+  height: 0.8rem;
+}
+
+.currentpos {
+  top: 1rem;
+  right: 1rem;
+  border: 1px solid #bbb;
+  border-radius: 50%;
+}
+
+.zoomcontrol {
+  height: 4.8rem;
+  top: 4.6rem;
+  right: 1rem;
+  border: 1px solid #bbb;
+  border-radius: 0.2rem;
+}
+
+.name {
+  margin-top: 2rem;
+  font-size: 0.7rem;
+  display: block;
+  background: #fff;
+  color: #1b262c;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  border-radius: 0.2rem;
+  padding: 0.2rem 0.3rem;
+}
+
+.content {
+  display: none;
+  z-index: 3;
+  bottom: 0;
+  left: 0;
+  background: #fff;
+  width: 100%;
+  height: 19rem;
+  cursor: pointer;
+  position: absolute;
+}
+
+.title {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  font-size: 1.5rem;
+}
+
+.address {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+  margin-left: 1rem;
+}
+
+.contact,
+.open-hours {
+  font-size: 1.1rem;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #000;
+  transition: all 0.2s ease-out;
+}
+
+.contact a:hover {
+  color: royalblue;
+}
+
+.menu {
+  display: inline-block;
+  padding: 0.3rem 0.5rem;
+  border-radius: 1rem;
+  border: 1px solid #000;
+  margin-top: 1rem;
+  margin-left: 0.75rem;
+  transition: all 0.3s ease-in-out;
+}
+
+.menu:hover {
+  background: black;
+  color: #fff;
+}
+
+.close-btn {
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  font-size: 2.5rem;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, height=device-height, initial-scale=1.0"
+    />
+    <title>서울 올빼미</title>
+    <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>서울 올빼미</h1>
+      <a href="#">
+        <img src="img/list.png" alt="List Icon" class="list-icon" />
+      </a>
+    </header>
+
+    <div class="map-container">
+      <div class="map"></div>
+      <div class="control-container">
+        <div class="currentpos">
+          <span onclick="currentPos()">
+            <img
+              src="img/current_location.png"
+              alt="Current Location Icon"
+              class="loc-icon"
+            />
+          </span>
+        </div>
+
+        <div class="zoomcontrol">
+          <span onclick="zoomIn()">
+            <img src="img/plus.png" alt="Plus Icon" class="plus-icon" />
+          </span>
+          <span onclick="zoomOut()">
+            <img src="img/minus.png" alt="Minus Icon" class="minus-icon" />
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- <footer class="footer">
+      made by &copy; copyright Mr.HOW | Contact via email :
+      wonyoungchoiseoul@gmail.com
+    </footer> -->
+
+    <script src="//dapi.kakao.com/v2/maps/sdk.js?appkey=0c539d94c869e620d3b25b0a1040c163&libraries=services"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
