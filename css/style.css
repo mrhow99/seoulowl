@@ -9,7 +9,6 @@
 
 body {
   font-family: sans-serif;
-  height: calc(var(--vh, 1vh) * 100);
   overflow: hidden;
 }
 
