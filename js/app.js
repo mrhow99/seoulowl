@@ -67,7 +67,6 @@ request.onload = function() {
   const info = request.response;
   const rInfo = info.rInfo;
   const cInfo = info.cInfo;
-  const franchise = info.franchise_menu;
 
   let clickedOverlay = null;
 
@@ -97,35 +96,39 @@ request.onload = function() {
       });
 
       const rContent = document.createElement("div");
-      const rTitle = document.createElement("h1");
-      const rAddress = document.createElement("p");
-      const rContact = document.createElement("p");
-      const rOpenhours = document.createElement("p");
       const closeBtn = document.createElement("span");
-      const rMenu = document.createElement("p");
 
-      rTitle.innerHTML = rInfo[i].name;
+      // menuOverlay.innerHTML = `
+      //   <ul>
+      //     ${Array(menuItems.length)
+      //       .fill()
+      //       .map((a, i) => `<li>${menuItems[i]}</li>`)
+      //       .join("")}
+      //   </ul>
+      // `;
+
+      rContent.innerHTML = `
+        <h1 class="title">${rInfo[i].name}</h1>
+
+        <p class="address">
+          <i class="fas fa-map-marker-alt"></i>
+          ${rInfo[i].address}
+        </p>
+        <p class="contact">
+          <i class="fas fa-phone"></i>
+          <a href="tel:${rInfo[i].contact}">${rInfo[i].contact}</a>
+        </p>
+        <p class="open-hours">
+          <i class="fas fa-clock"></i>
+          ${rInfo[i].open_hours}
+        </p>
+      `;
       closeBtn.innerHTML = "&times;";
-      rAddress.innerHTML = `<i class="fas fa-map-marker-alt" style="margin-right: .5rem;"></i>${rInfo[i].address}`;
-      rContact.innerHTML = `<i class="fas fa-phone" style="margin-right: .5rem;"></i><a href="tel:${rInfo[i].contact}">${rInfo[i].contact}</a>`;
-      rOpenhours.innerHTML = `<i class="fas fa-clock" style="margin-right: .5rem;"></i>${rInfo[i].open_hours}`;
-      rMenu.innerHTML = `<i class="far fa-clipboard" style="margin-right: .5rem"></i>메뉴보기`;
 
       rContent.className = "content";
-      rTitle.className = "title";
-      rAddress.className = "address";
-      rContact.className = "contact";
-      rOpenhours.className = "open-hours";
-      rMenu.className = "menu";
       closeBtn.className = "close-btn";
 
       main.appendChild(rContent);
-      rContent.appendChild(rTitle);
-
-      rContent.appendChild(rAddress);
-      rContent.appendChild(rContact);
-      rContent.appendChild(rOpenhours);
-      rContent.appendChild(rMenu);
       rContent.appendChild(closeBtn);
 
       closeBtn.addEventListener("click", function() {
@@ -176,19 +179,30 @@ request.onload = function() {
       });
 
       const cContent = document.createElement("div");
-      cContent.className = "content";
-      main.appendChild(cContent);
-
-      const cTitle = document.createElement("h1");
-      cTitle.innerHTML = cInfo[i].name;
-      cContent.appendChild(cTitle);
-
       const closeBtn = document.createElement("span");
-      closeBtn.className = "close-btn";
-      closeBtn.innerHTML = "&times;";
-      cContent.appendChild(closeBtn);
 
-      cTitle.className = "title";
+      cContent.innerHTML = `
+        <h1 class="title">${cInfo[i].name}</h1>
+        <p class="address">
+          <i class="fas fa-map-marker-alt"></i>
+          ${cInfo[i].address}
+        </p>
+        <p class="contact">
+          <i class="fas fa-phone"></i>
+          <a href="tel:${cInfo[i].contact}">${cInfo[i].contact}</a>
+        </p>
+        <p class="open-hours">
+          <i class="fas fa-clock"></i>
+          ${cInfo[i].open_hours}
+        </p>
+      `;
+      closeBtn.innerHTML = "&times;";
+
+      cContent.className = "content";
+      closeBtn.className = "close-btn";
+
+      main.appendChild(cContent);
+      cContent.appendChild(closeBtn);
 
       closeBtn.addEventListener("click", function() {
         cContent.style.display = "none";

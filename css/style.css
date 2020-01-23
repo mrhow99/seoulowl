@@ -127,9 +127,10 @@ header h1 {
   left: 0;
   background: #fff;
   width: 100%;
-  height: 19rem;
+  height: 15.5rem;
   cursor: pointer;
   position: absolute;
+  box-shadow: 0 -0.2rem 0.2rem -0.2rem rgba(0, 0, 0, 0.4);
 }
 
 .title {
@@ -159,15 +160,6 @@ header h1 {
 
 .contact a:hover {
   color: royalblue;
-}
-
-.menu {
-  display: inline-block;
-  padding: 0.3rem 0.5rem;
-  border-radius: 1rem;
-  border: 1px solid #000;
-  margin-top: 1rem;
-  margin-left: 0.75rem;
 }
 
 .close-btn {
