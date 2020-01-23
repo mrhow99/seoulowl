@@ -3,10 +3,8 @@
 const container = document.querySelector(".map");
 const main = document.querySelector(".map-container");
 
-window.addEventListener("resize", () => {
-  let vh = window.innerHeight * 0.01;
-  document.documentElement.style.setProperty("--vh", `${vh}px`);
-});
+let vh = window.innerHeight * 0.01;
+document.documentElement.style.setProperty("--vh", `${vh}px`);
 
 let options = {
   center: new kakao.maps.LatLng(37.5, 126.97),
