@@ -164,12 +164,6 @@ header h1 {
   border: 1px solid #000;
   margin-top: 1rem;
   margin-left: 0.75rem;
-  transition: all 0.3s ease-in-out;
-}
-
-.menu:hover {
-  background: black;
-  color: #fff;
 }
 
 .close-btn {
