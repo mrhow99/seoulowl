@@ -47,7 +47,7 @@ header h1 {
 .map {
   position: relative;
   width: 100vw;
-  height: -webkit-fill-available;
+  height: calc(var(--vh, 1vh) * 100);
   z-index: 1;
 }
 

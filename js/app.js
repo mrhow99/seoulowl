@@ -1,6 +1,11 @@
 // Create map and center based on your location
 
 const container = document.querySelector(".map");
+const main = document.querySelector(".map-container");
+
+let vh = window.innerHeight * 0.01;
+
+document.documentElement.style.setProperty("--vh", `${vh}px`);
 
 let options = {
   center: new kakao.maps.LatLng(37.5, 126.97),
@@ -59,8 +64,6 @@ request.onload = function() {
   const rInfo = info.rInfo;
   const cInfo = info.cInfo;
   const franchise = info.franchise_menu;
-
-  const main = document.querySelector(".map-container");
 
   let clickedOverlay = null;
 
