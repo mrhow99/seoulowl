@@ -38,7 +38,7 @@ function currentPos() {
     const lon = position.coords.longitude;
     locPosition = new kakao.maps.LatLng(lat, lon);
     map.setCenter(locPosition);
-    map.setLevel(4);
+    map.setLevel(3);
   });
 }
 

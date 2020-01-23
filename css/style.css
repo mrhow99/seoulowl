@@ -154,12 +154,8 @@ header h1 {
 
 .contact a {
   text-decoration: none;
-  color: #000;
+  color: mediumseagreen;
   transition: all 0.2s ease-out;
-}
-
-.contact a:hover {
-  color: royalblue;
 }
 
 .close-btn {
