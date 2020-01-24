@@ -111,17 +111,21 @@ request.onload = function() {
         <h1 class="title">${rInfo[i].name}</h1>
 
         <p class="address">
-          <i class="fas fa-map-marker-alt"></i>
+          <i class="fas fa-map-marker-alt" style="margin-right: .6rem;"></i>
           ${rInfo[i].address}
         </p>
         <p class="contact">
-          <i class="fas fa-phone"></i>
+          <i class="fas fa-phone" style="margin-right: .5rem;"></i>
           <a href="tel:${rInfo[i].contact}">${rInfo[i].contact}</a>
         </p>
         <p class="open-hours">
-          <i class="fas fa-clock"></i>
+          <i class="fas fa-clock" style="margin-right: .5rem;"></i>
           ${rInfo[i].open_hours}
         </p>
+        <a href="${rInfo[i].menu}" target="_blank" class="menu">
+          <i class="fas fa-clipboard-list" style="margin-right: .6rem;"></i>
+          <p>메뉴보기</p>
+        </a>
       `;
       closeBtn.innerHTML = "&times;";
 

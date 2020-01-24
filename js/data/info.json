@@ -4,25 +4,29 @@
       "name": "맥도날드 위례신도시",
       "address": "서울 송파구 장지동 896",
       "contact": "070-7209-1519",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1582982515#menuInfo"
     },
     {
       "name": "맥도날드 굽은다리역DT",
       "address": "서울 강동구 천호동 31-10",
       "contact": "070-7209-0553",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27316244#menuInfo"
     },
     {
       "name": "맥도날드 서울둔촌DT",
       "address": "서울 강동구 둔촌동 517-2",
       "contact": "070-7209-0555",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27336044#menuInfo"
     },
     {
       "name": "맥도날드 강동구청",
       "address": "서울 강동구 성내동 539-2",
       "contact": "070-7017-0528",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7869815#menuInfo"
     },
     {
       "name": "맥도날드 상계DT",
@@ -749,6 +753,12 @@
       "address": "서울 강남구 논현동 182-25",
       "contact": "02-544-8592",
       "open_hours": "매일 17:00 ~ 08:00"
+    },
+    {
+      "name": "새벽집",
+      "address": "서울 강남구 청담동 129-10",
+      "contact": "02-546-5739",
+      "open_hours": "매일 24시간"
     }
   ],
 
@@ -1117,12 +1127,6 @@
       "name": "탐앤탐스커버리 건대",
       "address": "서울 광진구 자양동 7-7",
       "contact": "02-465-4565",
-      "open_hours": "매일 24시간"
-    },
-    {
-      "name": "탐앤탐스커버리 광진화양",
-      "address": "서울 광진구 자양동 7-7",
-      "contact": "02-497-4565",
       "open_hours": "매일 24시간"
     },
     {
