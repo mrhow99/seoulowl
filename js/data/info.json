@@ -32,241 +32,281 @@
       "name": "맥도날드 상계DT",
       "address": "서울 노원구 상계동 1022",
       "contact": "070-7209-0600",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26357904#menuInfo"
     },
     {
       "name": "맥도날드 석촌역",
       "address": "서울 송파구 송파동 84",
       "contact": "070-7017-6515",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/20809733#menuInfo"
     },
     {
       "name": "맥도날드 중계",
       "address": "서울 노원구 중계동 359-14",
       "contact": "070-7017-0388",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7860478#menuInfo"
     },
     {
       "name": "맥도날드 잠실역",
       "address": "서울 송파구 신천동 7-25",
       "contact": "070-7209-0613",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26618775#menuInfo"
     },
     {
       "name": "맥도날드 중계역",
       "address": "서울 노원구 상계동 763-2",
       "contact": "070-7017-0455",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8331701#menuInfo"
     },
     {
       "name": "맥도날드 신내",
       "address": "서울 중랑구 신내동 666",
       "contact": "070-7017-0468",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7862196#menuInfo"
     },
     {
       "name": "맥도날드 신천",
       "address": "서울 송파구 잠실동 181-9",
       "contact": "070-7017-0582",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7861688#menuInfo"
     },
     {
       "name": "맥도날드 송파잠실DT",
       "address": "서울 송파구 잠실동 305-15",
       "contact": "070-7209-0613",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26458836#menuInfo"
     },
     {
       "name": "맥도날드 서울시흥DT",
       "address": "서울 금천구 시흥동 903-4",
       "contact": "070-7209-0520",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27168594#menuInfo"
     },
     {
       "name": "맥도날드 구의역",
       "address": "서울 광진구 자양동 216-11",
       "contact": "070-7209-1564",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8349863#menuInfo"
     },
     {
       "name": "맥도날드 양재SK DT",
       "address": "서울 서초구 양재동 81",
       "contact": "070-7017-1446",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21555292#menuInfo"
     },
     {
       "name": "맥도날드 한티역",
       "address": "서울 강남구 대치동 938-22",
       "contact": "070-7017-1409",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/13050164#menuInfo"
     },
     {
       "name": "맥도날드 양재",
       "address": "서울 서초구 양재동 24",
       "contact": "070-7017-0326",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/10349441#menuInfo"
     },
     {
       "name": "맥도날드 노원",
       "address": "서울 노원구 하계동 284",
       "contact": "070-7017-0348",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/25000088#menuInfo"
     },
     {
       "name": "맥도날드 송정역",
       "address": "서울 강서구 공항동 45-38",
       "contact": "070-7017-0576",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7869636#menuInfo"
     },
     {
       "name": "맥도날드 삼성역",
       "address": "서울 강남구 삼성동 158-15",
       "contact": "070-7017-6471",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/18606490#menuInfo"
     },
     {
       "name": "맥도날드 수유",
       "address": "서울 강북구 번동 418-17",
       "contact": "070-7017-0336",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7862195#menuInfo"
     },
     {
       "name": "맥도날드 한국외대",
       "address": "서울 동대문구 이문동 305-2",
       "contact": "070-7209-1547",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/22561704#menuInfo"
     },
     {
       "name": "맥도날드 서초뱅뱅",
       "address": "서울 서초구 서초동 1338-20",
       "contact": "070-7017-1389",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/12119340#menuInfo"
     },
     {
       "name": "맥도날드 강남삼성DT",
       "address": "서울 강남구 삼성동 113-7",
       "contact": "070-7209-0677",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/2091772039#menuInfo"
     },
     {
       "name": "맥도날드 신월DT",
       "address": "서울 양천구 신월동 199-3",
       "contact": "070-7017-6854",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/22379077#menuInfo"
     },
     {
       "name": "맥도날드 가산디지털",
       "address": "서울 금천구 가산동 50-3",
       "contact": "070-7017-2448",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/25003435#menuInfo"
     },
     {
       "name": "맥도날드 굽은다리역DT",
       "address": "서울 강동구 천호동 31-10",
       "contact": "070-7209-0553",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27316244#menuInfo"
     },
     {
       "name": "맥도날드 방배",
       "address": "서울 서초구 방배동 909-9",
       "contact": "070-7017-0332",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8331014#menuInfo"
     },
     {
       "name": "맥도날드 강남구청",
       "address": "서울 강남구 논현동 242-29",
       "contact": "070-7017-4454",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/25002367#menuInfo"
     },
     {
       "name": "맥도날드 구로디지털",
       "address": "서울 구로구 구로동 197-21",
       "contact": "070-7017-0642",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/12513113#menuInfo"
     },
     {
       "name": "맥도날드 미아DT",
       "address": "서울 강북구 미아동 682-12",
       "contact": "070-7209-0543",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27177671#menuInfo"
     },
     {
       "name": "맥도날드 종암SK",
       "address": "서울 성북구 종암동 10-15",
       "contact": "070-7017-0661",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7860480#menuInfo"
     },
     {
       "name": "맥도날드 신림",
       "address": "서울 관악구 신림동 1641-22",
       "contact": "070-7017-0374",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21325935#menuInfo"
     },
     {
       "name": "맥도날드 한양대",
       "address": "서울 성동구 행당동 31-7",
       "contact": "070-7017-0469",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8330325#menuInfo"
     },
     {
       "name": "맥도날드 신사역",
       "address": "서울 강남구 신사동 514-15",
       "contact": "070-7204-4998",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/24999700#menuInfo"
     },
     {
       "name": "맥도날드 안암",
       "address": "서울 성북구 안암동5가 102-33",
       "contact": "070-7017-0367",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21324889#menuInfo"
     },
     {
       "name": "맥도날드 등촌DT",
       "address": "서울 강서구 등촌동 630",
       "contact": "070-7017-6526",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21937079#menuInfo"
     },
     {
       "name": "맥도날드 숭실대",
       "address": "서울 동작구 상도동 505-5",
       "contact": "070-7209-0593",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26357892#menuInfo"
     },
     {
       "name": "맥도날드 보라매",
       "address": "서울 영등포구 신길동 505",
       "contact": "070-7209-0561",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27440997#menuInfo"
     },
     {
       "name": "맥도날드 연신내",
       "address": "서울 은평구 갈현동 456-28",
       "contact": "070-7017-0498",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/10346361#menuInfo"
     },
     {
       "name": "맥도날드 동묘역",
       "address": "서울 종로구 창신동 290",
       "contact": "070-7209-1543",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1943242354#menuInfo"
     },
     {
       "name": "맥도날드 중앙대",
       "address": "서울 동작구 흑석동 221",
       "contact": "070-7017-1417",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/14091840#menuInfo"
     },
     {
       "name": "맥도날드 구산",
       "address": "서울 은평구 구산동 1-14",
       "contact": "070-7017-0627",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11075106#menuInfo"
     },
     {
       "name": "맥도날드 대학로",
       "address": "서울 종로구 동숭동 1-34",
       "contact": "070-7017-0465",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8291988#menuInfo"
     },
     {
       "name": "맥도날드 양평SK DT",
