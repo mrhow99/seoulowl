@@ -309,496 +309,578 @@
       "menu": "https://place.map.kakao.com/m/8291988#menuInfo"
     },
     {
-      "name": "맥도날드 양평SK DT",
+      "name": "맥도날드 양평SK",
       "address": "서울 영등포구 양평동3가 80-2",
       "contact": "070-7017-6505",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/22264679#menuInfo"
     },
     {
       "name": "맥도날드 성균관대",
       "address": "서울 종로구 명륜2가 197-1",
       "contact": "070-7017-6520",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21253166#menuInfo"
     },
     {
       "name": "맥도날드 서울상암DMC",
       "address": "서울 마포구 상암동 1602",
       "contact": "070-7209-1604",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1509297288#menuInfo"
     },
     {
       "name": "맥도날드 노량진",
       "address": "서울 동작구 노량진동 100-1",
       "contact": "070-7017-0307",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7861686#menuInfo"
     },
     {
       "name": "맥도날드 이태원",
       "address": "서울 용산구 이태원동 56-21",
       "contact": "070-7017-0305",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/16988033#menuInfo"
     },
     {
       "name": "맥도날드 서울시청",
       "address": "서울 중구 을지로1가 32",
       "contact": "070-7017-0155",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11902329#menuInfo"
     },
     {
       "name": "맥도날드 홍제역",
       "address": "서울 서대문구 홍제동 253-11",
       "contact": "070-7017-0485",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/371363260#menuInfo"
     },
     {
       "name": "맥도날드 망원",
       "address": "서울 마포구 망원동 377-19",
       "contact": "070-7209-1510",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7861587#menuInfo"
     },
     {
       "name": "맥도날드 홍익대",
       "address": "서울 마포구 동교동 162-4",
       "contact": "070-7209-0512",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26458834#menuInfo"
     },
     {
       "name": "맥도날드 연세대",
       "address": "서울 서대문구 창천동 33-12",
       "contact": "070-7017-6475",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/18606733#menuInfo"
     },
     {
       "name": "롯데리아 왕십리역사",
       "address": "서울 성동구 행당동 168-151",
       "contact": "02-2297-7111",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17001335#menuInfo"
     },
     {
       "name": "롯데리아 수서역사",
       "address": "서울 강남구 수서동 207-1",
       "contact": "02-459-9424",
-      "open_hours": "매일 05:00 ~ 01:00"
+      "open_hours": "매일 05:00 ~ 01:00",
+      "menu": "https://place.map.kakao.com/m/1397548639#menuInfo"
     },
     {
       "name": "롯데리아 남성역",
       "address": "서울 동작구 사당동 249-84",
       "contact": "02-588-0992",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1302657465#menuInfo"
     },
     {
       "name": "롯데리아 서대문역",
       "address": "서울 서대문구 충정로2가 8-2",
       "contact": "02-312-9760",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27272866#menuInfo"
     },
     {
       "name": "롯데리아 서울대입구역",
       "address": "서울 관악구 봉천동 863-1",
       "contact": "02-883-6816",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26931496#menuInfo"
     },
     {
       "name": "롯데리아 군자",
       "address": "서울 광진구 군자동 478-5",
       "contact": "02-461-7075",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26305893#menuInfo"
     },
     {
       "name": "롯데리아 번동DT",
       "address": "서울 강북구 번동 410-94",
       "contact": "02-998-3330",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21359042#menuInfo"
     },
     {
       "name": "롯데리아 역삼",
       "address": "서울 강남구 역삼동 824-19",
       "contact": "02-3453-4054",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/20172027#menuInfo"
     },
     {
       "name": "롯데리아 천호역",
       "address": "서울 강동구 천호동 429-2",
       "contact": "02-488-7165",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21553808#menuInfo"
     },
     {
       "name": "롯데리아 창동역",
       "address": "서울 도봉구 창동 74-8",
       "contact": "02-900-2033",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/19410457#menuInfo"
     },
     {
       "name": "롯데리아 동묘역",
       "address": "서울 종로구 창신동 326-6",
       "contact": "02-764-5333",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17942549#menuInfo"
     },
     {
       "name": "롯데리아 강남우성사거리",
       "address": "서울 강남구 역삼동 832",
       "contact": "02-501-4642",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17942508#menuInfo"
     },
     {
       "name": "롯데리아 선릉",
       "address": "서울 강남구 역삼동 707-5",
       "contact": "02-3453-5939",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17942538#menuInfo"
     },
     {
       "name": "롯데리아 상봉역",
       "address": "서울 중랑구 상봉동 115-14",
       "contact": "02-494-2222",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17135833#menuInfo"
     },
     {
       "name": "롯데리아 이수역",
       "address": "서울 동작구 사당동 86-9",
       "contact": "02-594-1199",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/319710342#menuInfo"
     },
     {
       "name": "롯데리아 사당",
       "address": "서울 서초구 방배동 443-3",
       "contact": "02-522-3530",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11804347#menuInfo"
     },
     {
       "name": "롯데리아 건대역",
       "address": "서울 광진구 화양동 4-20",
       "contact": "02-2218-4550",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17572581#menuInfo"
     },
     {
       "name": "롯데리아 숙대입구역",
       "address": "서울 용산구 갈월동 89-9",
       "contact": "02-718-9861",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8343273#menuInfo"
     },
     {
       "name": "롯데리아 성신여대",
       "address": "서울 성북구 동선동4가 104",
       "contact": "02-922-0902",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/10361910#menuInfo"
     },
     {
       "name": "롯데리아 동대문역사문화공원역",
       "address": "서울 중구 을지로6가 18-130",
       "contact": "02-2265-0374",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7856443#menuInfo"
     },
     {
       "name": "롯데리아 신림역",
       "address": "서울 관악구 신림동 1640-9",
       "contact": "02-888-0702",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11078202#menuInfo"
     },
     {
       "name": "롯데리아 청량리",
       "address": "서울 동대문구 청량리동 262",
       "contact": "02-965-5953",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7859081#menuInfo"
     },
     {
       "name": "롯데리아 노량진",
       "address": "서울 동작구 노량진동 45-5",
       "contact": "02-821-0308",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7857083#menuInfo"
     },
     {
       "name": "롯데리아 신촌로터리",
       "address": "서울 마포구 노고산동 57-13",
       "contact": "02-324-3894",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7857824#menuInfo"
     },
     {
       "name": "롯데리아 신정네거리",
       "address": "서울 양천구 신정동 1190-3",
       "contact": "02-2608-1712",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/10355936#menuInfo"
     },
     {
       "name": "롯데리아 서울역광장",
       "address": "서울 용산구 동자동 43-205",
       "contact": "02-393-8781",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11278842#menuInfo"
     },
     {
       "name": "롯데리아 종각역",
       "address": "서울 종로구 종로2가 84-8",
       "contact": "02-720-6928",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7858434#menuInfo"
     },
     {
       "name": "롯데리아 혜화",
       "address": "서울 종로구 혜화동 111-7",
       "contact": "02-741-1956",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/10356756#menuInfo"
     },
     {
       "name": "롯데리아 남부터미널",
       "address": "서울 서초구 서초동 1602-10",
       "contact": "02-523-1800",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7860341#menuInfo"
     },
     {
       "name": "롯데리아 석관",
       "address": "서울 성북구 석관동 255-2",
       "contact": "02-968-1149",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7857740#menuInfo"
     },
     {
       "name": "롯데리아 까치산역",
       "address": "서울 강서구 화곡동 343-60",
       "contact": "02-2692-0042",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21325594#menuInfo"
     },
     {
       "name": "롯데리아 노원역",
       "address": "서울 노원구 상계동 617",
       "contact": "02-931-1756",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7856268#menuInfo"
     },
     {
       "name": "롯데리아 명일DT",
       "address": "서울 강동구 명일동 306-2",
       "contact": "02-427-8463",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7857338#menuInfo"
     },
     {
       "name": "롯데리아 면목중앙",
       "address": "서울 중랑구 면목동 126-39",
       "contact": "02-439-8245",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7856782#menuInfo"
     },
     {
       "name": "롯데리아 구로시장",
       "address": "서울 구로구 구로동 141-5",
       "contact": "02-3281-1154",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17941542#menuInfo"
     },
     {
       "name": "롯데리아 응암",
       "address": "서울 은평구 응암동 98-65",
       "contact": "02-357-7184",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7858095#menuInfo"
     },
     {
       "name": "롯데리아 구로디지털역",
       "address": "서울 관악구 신림동 1643",
       "contact": "02-857-7698",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17124942#menuInfo"
     },
     {
       "name": "롯데리아 불광",
       "address": "서울 은평구 대조동 6-5",
       "contact": "02-383-4553",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7864595#menuInfo"
     },
     {
       "name": "롯데리아 길동",
       "address": "서울 강동구 성내동 244-3",
       "contact": "02-475-6084",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17941537#menuInfo"
     },
     {
       "name": "롯데리아 마들역",
       "address": "서울 노원구 상계동 649-6",
       "contact": "02-938-4604",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8284374#menuInfo"
     },
     {
       "name": "버거킹 연세로",
       "address": "서울 서대문구 창천동 33-38",
       "contact": "02-322-3669",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21556767#menuInfo"
     },
     {
       "name": "버거킹 종로",
       "address": "서울 종로구 종로2가 56-23",
       "contact": "02-2285-4838",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/20373593#menuInfo"
     },
     {
       "name": "버거킹 청담",
       "address": "서울 강남구 청담동 85-5",
       "contact": "02-3446-7816",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7884797#menuInfo"
     },
     {
       "name": "버거킹 강남교보",
       "address": "서울 서초구 반포동 748-11",
       "contact": "02-517-0236",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7887812#menuInfo"
     },
     {
       "name": "버거킹 신당역",
       "address": "서울 중구 흥인동 86",
       "contact": "02-2253-0332",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1723729919#menuInfo"
     },
     {
       "name": "버거킹 신림역",
       "address": "서울 관악구 신림동 1641-17",
       "contact": "02-3285-0332",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1127981980#menuInfo"
     },
     {
       "name": "버거킹 신촌점",
       "address": "서울 서대문구 창천동 18-53",
       "contact": "02-393-5450",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8375653#menuInfo"
     },
     {
       "name": "버거킹 건대입구역",
       "address": "서울 광진구 화양동 7-3",
       "contact": "070-7462-6823",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1801694269#menuInfo"
     },
     {
       "name": "KFC 학동역",
       "address": "서울 강남구 논현동 208-7",
       "contact": "02-514-7333",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/15101805#menuInfo"
     },
     {
       "name": "중앙해장",
       "address": "서울 강남구 대치동 996-16",
       "contact": "02-558-7905",
-      "open_hours": "화~토 24시간"
+      "open_hours": "화~토 24시간",
+      "menu": "https://place.map.kakao.com/m/27531028#menuInfo"
     },
     {
       "name": "닭한마리감자탕",
       "address": "서울 강남구 신사동 512-18",
       "contact": "02-515-5220",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/12042931#menuInfo"
     },
     {
       "name": "브루클린더버거조인트 가로수길",
       "address": "서울 강남구 신사동 540-11",
       "contact": "02-545-0718",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/26856753#menuInfo"
     },
     {
       "name": "소문난성수감자탕",
       "address": "서울 성동구 성수동2가 315-100",
       "contact": "02-465-6580",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/13289056#menuInfo"
     },
     {
       "name": "나누미떡볶이",
       "address": "서울 종로구 명륜2가 225",
       "contact": "02-747-0881",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/10199904#menuInfo"
     },
     {
       "name": "청진옥",
       "address": "서울 종로구 청진동 183-1",
       "contact": "02-735-1690",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27540102#menuInfo"
     },
     {
       "name": "체부동잔치집",
       "address": "서울 종로구 체부동 190",
       "contact": "02-730-5420",
-      "open_hours": "매일 09:30 ~ 05:00"
+      "open_hours": "매일 09:30 ~ 05:00",
+      "menu": "https://place.map.kakao.com/m/14951761#menuInfo"
     },
     {
       "name": "광화문뚝감",
       "address": "서울 종로구 당주동 128-14",
       "contact": "02-722-5894",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/18363906#menuInfo"
     },
     {
       "name": "무등산",
       "address": "서울 강남구 청담동 1-15",
       "contact": "02-518-4001",
-      "open_hours": "화~토 24시간"
+      "open_hours": "화~토 24시간",
+      "menu": "https://place.map.kakao.com/m/7878577#menuInfo"
     },
     {
       "name": "호박식당 본점",
       "address": "서울 중구 신당동 340-8",
       "contact": "02-2233-7905",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11549593#menuInfo"
     },
     {
       "name": "호박식당 한남",
       "address": "서울 용산구 한남동 657-85",
       "contact": "02-798-7905",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/21338181#menuInfo"
     },
     {
       "name": "호박식당 장한평",
       "address": "서울 동대문구 장안동 433-25",
       "contact": "02-2248-7905",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/18888811#menuInfo"
     },
     {
       "name": "탐라도야지 서초",
       "address": "서울 서초구 서초동 1566-8",
       "contact": "02-521-3337",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/9475630#menuInfo"
     },
     {
       "name": "탐라도야지 역삼",
       "address": "서울 강남구 역삼동 668-24",
       "contact": "02-565-5735",
-      "open_hours": "평일 24시간"
+      "open_hours": "평일 24시간",
+      "menu": "https://place.map.kakao.com/m/16068744#menuInfo"
     },
     {
       "name": "돕감자탕전문점",
       "address": "서울 광진구 화양동 9-22",
       "contact": "02-499-2838",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/7834861#menuInfo"
     },
     {
       "name": "영천영화",
       "address": "서울 강남구 청담동 50-13",
       "contact": "02-3442-0381",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/8332375#menuInfo"
     },
     {
       "name": "프로간장게장",
       "address": "서울 서초구 잠원동 27-1",
       "contact": "02-543-4126",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/11445020#menuInfo"
     },
     {
       "name": "할매재첩국",
       "address": "서울 강남구 대치동 988-2",
       "contact": "02-501-6667",
-      "open_hours": "화~일 24시간"
+      "open_hours": "화~일 24시간",
+      "menu": "https://place.map.kakao.com/m/8598605#menuInfo"
     },
     {
       "name": "미스터케밥 이태원본점",
       "address": "서울 용산구 이태원동 127-2",
       "contact": "02-792-1997",
-      "open_hours": "평일 24시간"
+      "open_hours": "평일 24시간",
+      "menu": "https://place.map.kakao.com/m/11520662#menuInfo"
     },
     {
       "name": "미스터케밥 이태원2호점",
       "address": "서울 용산구 이태원동 136-45",
       "contact": "02-794-1997",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/17583997#menuInfo"
     },
     {
       "name": "악바리야시장",
       "address": "서울 서초구 서초동 1308-18",
       "contact": "02-3481-8007",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/1867030427#menuInfo"
     },
     {
       "name": "화랑불닭",
       "address": "서울 강남구 논현동 182-25",
       "contact": "02-544-8592",
-      "open_hours": "매일 17:00 ~ 08:00"
+      "open_hours": "매일 17:00 ~ 08:00",
+      "menu": "https://place.map.kakao.com/m/8156545#menuInfo"
     },
     {
       "name": "새벽집",
       "address": "서울 강남구 청담동 129-10",
       "contact": "02-546-5739",
-      "open_hours": "매일 24시간"
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/19880897#menuInfo"
     }
   ],
 
@@ -817,7 +899,7 @@
     },
     {
       "name": "할리스 홍대입구역",
-      "address": "서울 마포구 서교동 344-13",
+      "address": "서울 마포구 동교동 160-7",
       "contact": "02-322-3584",
       "open_hours": "매일 24시간"
     },
@@ -1183,7 +1265,7 @@
     },
     {
       "name": "탐앤탐스커버리 청담",
-      "address": "서울 강남 청담동 124-18",
+      "address": "서울 강남구 청담동 124-18",
       "contact": "02-511-5090",
       "open_hours": "매일 24시간"
     },
@@ -1226,6 +1308,27 @@
       "address": "서울 양천구 목동 406-35",
       "contact": "02-2651-0511",
       "open_hours": "월~금 24시간"
+    },
+    {
+      "name": "투썸플레이스 대치선릉",
+      "address": "서울 강남구 대치동 890-38",
+      "contact": "02-557-2707",
+      "open_hours": "월~금 24시간",
+      "menu": "https://place.map.kakao.com/m/25017869#menuInfo"
+    },
+    {
+      "name": "투썸플레이스 신논현",
+      "address": "서울 강남구 논현동 200-7",
+      "contact": "02-540-2388",
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/27465316#menuInfo"
+    },
+    {
+      "name": "가비애",
+      "address": "서울 마포구 서교동 337-3",
+      "contact": "070-7739-4007",
+      "open_hours": "매일 24시간",
+      "menu": "https://place.map.kakao.com/m/20809319#photoList"
     }
   ]
 }

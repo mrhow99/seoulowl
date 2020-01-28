@@ -6,11 +6,6 @@ const main = document.querySelector(".map-container");
 let vh = window.innerHeight * 0.01;
 document.documentElement.style.setProperty("--vh", `${vh}px`);
 
-window.addEventListener("resize", () => {
-  let vh = window.innerHeight * 0.01;
-  document.documentElement.style.setProperty("--vh", `${vh}px`);
-});
-
 let options = {
   center: new kakao.maps.LatLng(37.5, 126.97),
   level: 10
@@ -37,6 +32,22 @@ function currentPos() {
     const lat = position.coords.latitude;
     const lon = position.coords.longitude;
     locPosition = new kakao.maps.LatLng(lat, lon);
+
+    let marker = new kakao.maps.Marker({
+      position: locPosition,
+      zIndex: 3
+    });
+
+    kakao.maps.event.addListener(map, "zoom_changed", function() {
+      level = map.getLevel();
+
+      if (1 <= level && level <= 6) {
+        marker.setMap(map);
+      } else if (level >= 7) {
+        marker.setMap(null);
+      }
+    });
+
     map.setCenter(locPosition);
     map.setLevel(3);
   });
@@ -51,7 +62,7 @@ const rMarkerImage = new kakao.maps.MarkerImage(imageSrc1, imageSize);
 const cMarkerImage = new kakao.maps.MarkerImage(imageSrc2, imageSize);
 
 // Get coordinates through address and create & put
-const requestData = "./js/data/info.json";
+const requestData = "../data/info.json";
 const request = new XMLHttpRequest();
 
 request.open("GET", requestData);
@@ -97,15 +108,6 @@ request.onload = function() {
 
       const rContent = document.createElement("div");
       const closeBtn = document.createElement("span");
-
-      // menuOverlay.innerHTML = `
-      //   <ul>
-      //     ${Array(menuItems.length)
-      //       .fill()
-      //       .map((a, i) => `<li>${menuItems[i]}</li>`)
-      //       .join("")}
-      //   </ul>
-      // `;
 
       rContent.innerHTML = `
         <h1 class="title">${rInfo[i].name}</h1>
@@ -188,17 +190,21 @@ request.onload = function() {
       cContent.innerHTML = `
         <h1 class="title">${cInfo[i].name}</h1>
         <p class="address">
-          <i class="fas fa-map-marker-alt"></i>
+          <i class="fas fa-map-marker-alt" style="margin-right: .6rem;"></i>
           ${cInfo[i].address}
         </p>
         <p class="contact">
-          <i class="fas fa-phone"></i>
+          <i class="fas fa-phone" style="margin-right: .5rem;"></i>
           <a href="tel:${cInfo[i].contact}">${cInfo[i].contact}</a>
         </p>
         <p class="open-hours">
-          <i class="fas fa-clock"></i>
+          <i class="fas fa-clock" style="margin-right: .5rem;"></i>
           ${cInfo[i].open_hours}
         </p>
+        <a href="${cInfo[i].menu}" target="_blank" class="menu">
+          <i class="fas fa-clipboard-list" style="margin-right: .6rem;"></i>
+          <p>메뉴보기</p>
+        </a>
       `;
       closeBtn.innerHTML = "&times;";
 
