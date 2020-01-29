@@ -37,22 +37,17 @@ function currentPos() {
       "img/circle.png",
       new kakao.maps.Size(20, 20)
     );
-
     let marker = new kakao.maps.Marker({
+      map: map,
       image: markerImage,
       position: locPosition,
       zIndex: 3
     });
 
-    if (marker.length > 1) {
-      marker.setMap(null);
-    } else {
-      marker.setMap(map);
-    }
-
     map.setCenter(locPosition);
     map.setLevel(3);
   });
+  marker.setMap(null);
 }
 
 // Custom pin
