@@ -9,7 +9,7 @@ document.documentElement.addEventListener(
 );
 
 // Create map and center based on your location
-https: const container = document.querySelector(".map");
+const container = document.querySelector(".map");
 const main = document.querySelector(".map-container");
 
 let vh = window.innerHeight * 0.01;
