@@ -44,7 +44,7 @@ function currentPos() {
       zIndex: 3
     });
 
-    if (marker.length >= 2) {
+    if (marker.length > 1) {
       marker.setMap(null);
     } else {
       marker.setMap(map);
