@@ -32,22 +32,9 @@ function currentPos() {
     const lat = position.coords.latitude;
     const lon = position.coords.longitude;
     locPosition = new kakao.maps.LatLng(lat, lon);
-
-    let markerImage = new kakao.maps.MarkerImage(
-      "img/circle.png",
-      new kakao.maps.Size(20, 20)
-    );
-    let marker = new kakao.maps.Marker({
-      map: map,
-      image: markerImage,
-      position: locPosition,
-      zIndex: 3
-    });
-
     map.setCenter(locPosition);
-    map.setLevel(3);
+    map.setLevel(1);
   });
-  marker.setMap(null);
 }
 
 // Custom pin
