@@ -33,20 +33,22 @@ function currentPos() {
     const lon = position.coords.longitude;
     locPosition = new kakao.maps.LatLng(lat, lon);
 
+    let markerImage = new kakao.maps.MarkerImage(
+      "img/circle.png",
+      new kakao.maps.Size(20, 20)
+    );
+
     let marker = new kakao.maps.Marker({
+      image: markerImage,
       position: locPosition,
       zIndex: 3
     });
 
-    kakao.maps.event.addListener(map, "zoom_changed", function() {
-      level = map.getLevel();
-
-      if (1 <= level && level <= 6) {
-        marker.setMap(map);
-      } else if (level >= 7) {
-        marker.setMap(null);
-      }
-    });
+    if (marker.length >= 2) {
+      marker.setMap(null);
+    } else {
+      marker.setMap(map);
+    }
 
     map.setCenter(locPosition);
     map.setLevel(3);
