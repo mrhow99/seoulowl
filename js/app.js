@@ -1,5 +1,15 @@
+document.documentElement.addEventListener(
+  "touchstart",
+  function(event) {
+    if (event.touches.length > 1) {
+      event.preventDefault();
+    }
+  },
+  false
+);
+
 // Create map and center based on your location
-const container = document.querySelector(".map");
+https: const container = document.querySelector(".map");
 const main = document.querySelector(".map-container");
 
 let vh = window.innerHeight * 0.01;
