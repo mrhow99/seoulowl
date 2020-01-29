@@ -26,7 +26,6 @@ header {
   padding: 0.8rem 1rem 0.8rem 2.5rem;
   border-bottom: 0.2rem solid #222;
   background: #000;
-  z-index: 10;
 }
 
 a {
@@ -52,8 +51,13 @@ header h1 {
 .map {
   position: relative;
   width: 100vw;
-  height: calc(var(--vh, 1vh) * 100);
+
   z-index: 1;
+}
+
+.map {
+  position: absolute;
+  height: calc(var(--vh, 1vh) * 100);
 }
 
 .currentpos,

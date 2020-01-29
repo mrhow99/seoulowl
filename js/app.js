@@ -1,9 +1,4 @@
 // Create map and center based on your location
-
-document.addEventListener("gesturestart", function(e) {
-  e.preventDefault();
-});
-
 const container = document.querySelector(".map");
 const main = document.querySelector(".map-container");
 
