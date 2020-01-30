@@ -1,13 +1,3 @@
-document.documentElement.addEventListener(
-  "touchstart",
-  function(event) {
-    if (event.touches.length > 1) {
-      event.preventDefault();
-    }
-  },
-  false
-);
-
 // Create map and center based on your location
 const container = document.querySelector(".map");
 const main = document.querySelector(".map-container");
@@ -16,7 +6,7 @@ let vh = window.innerHeight * 0.01;
 document.documentElement.style.setProperty("--vh", `${vh}px`);
 
 let options = {
-  center: new kakao.maps.LatLng(37.5, 126.97),
+  center: new kakao.maps.LatLng(37.6, 126.97),
   level: 10
 };
 
@@ -42,7 +32,7 @@ function currentPos() {
     const lon = position.coords.longitude;
     locPosition = new kakao.maps.LatLng(lat, lon);
     map.setCenter(locPosition);
-    map.setLevel(1);
+    map.setLevel(3);
   });
 }
 
@@ -51,9 +41,8 @@ function currentPos() {
 let imageSrc1 = "img/restaurant.png";
 let imageSrc2 = "img/coffee.png";
 let imageSize = new kakao.maps.Size(25, 25);
-const rMarkerImage = new kakao.maps.MarkerImage(imageSrc1, imageSize);
-const cMarkerImage = new kakao.maps.MarkerImage(imageSrc2, imageSize);
-
+let rMarkerImage = new kakao.maps.MarkerImage(imageSrc1, imageSize);
+let cMarkerImage = new kakao.maps.MarkerImage(imageSrc2, imageSize);
 // Get coordinates through address and create & put
 const requestData = "../data/info.json";
 const request = new XMLHttpRequest();
@@ -73,6 +62,7 @@ request.onload = function() {
   const cInfo = info.cInfo;
 
   let clickedOverlay = null;
+  let clickedMarker = null;
 
   console.log(cInfo.length + rInfo.length);
 
