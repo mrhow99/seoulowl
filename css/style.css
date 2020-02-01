@@ -19,13 +19,13 @@ body {
 
 /* Header Styles */
 
-header {
+/* header {
   width: 95%;
   border-radius: 0.5rem;
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  /* padding: 0.5rem 1rem 0.5rem 2.5rem; */
+  padding: 0.5rem 1rem 0.5rem 2.5rem;
   padding: 0.5rem 1rem;
   border: 1px solid rgba(0, 0, 0, 0.2);
   border-bottom: 0.2rem solid #ddd;
@@ -52,7 +52,7 @@ header h1 {
   margin-right: 0.22rem;
   width: 2rem;
   height: 2rem;
-}
+} */
 
 /* Main Styles */
 
